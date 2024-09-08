@@ -52,7 +52,6 @@ The project was inspired by a video of a visually impaired YouTuber, One Shot Ha
 MAKER BROTHERS TEAM:
 - Doyoung Kim (Eldest son): High school senior, SW development
 - Minjae Kim (Second son): Middle school student, Designer
-- Namhoon Kim (Father): HW development
 
 ## Future Plans
 
