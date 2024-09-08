@@ -1,8 +1,5 @@
 # cyclops-camera
 Generative AI-based talent disorder illustration mobile assistant app
-# Cyclops Camera
-
-A generative AI-based mobile assistant app for the visually impaired
 
 ## Project Introduction
 
