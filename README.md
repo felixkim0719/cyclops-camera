@@ -57,4 +57,4 @@ MAKER BROTHERS TEAM:
 
 ## Contact
 
-For more information or collaboration proposals, please contact [Contact Information].
+For more information or collaboration proposals, please contact [felixkim0719@gmail.com].
