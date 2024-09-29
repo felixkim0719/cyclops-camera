@@ -39,11 +39,6 @@ The project was inspired by a video of a visually impaired YouTuber, One Shot Ha
 - Improved voice output (Mp3 generation -> UNITY's Screen Reader Beta feature)
 - Mobile app optimization
 
-## Current Progress
-
-- iOS: App Store approval review in progress
-- Android: DUNS number approved for Google Play Store organizational account
-
 ## Team Introduction
 
 MAKER BROTHERS TEAM:
